@@ -8,7 +8,7 @@ public class PalliondromParimid {
         int n = 5;
 
         for (int i = 1; i <= n; i++) {
-            // you cand take a string variable also and store value in it and then print the
+            // you can take a string variable also and store value in it and then print the
             // whole string
             //spaces
             for (int j = n - i; j >= 1; j--) {
